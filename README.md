@@ -1,8 +1,8 @@
 Software wise my interests are weird old programming languages like Lisp and Smalltalk, compilers, interpreters, and OS related topics. Lisp Machines, Plan 9, the Xerox Alto, and Emacs are my jam.
 
 What I've been working on:  
-     - [My Literate Emacs config](https://github.com/tokamach/.emacs.d)
-     - [My Dissertation, a bare metal Lisp 'OS'](https://github.com/tokamach/beige)
+- [My Literate Emacs config](https://github.com/tokamach/.emacs.d)
+- [My Undergraduate dissertation project, a bare metal Lisp 'OS'](https://github.com/tokamach/beige)
 
 
 What I've been reading:  
