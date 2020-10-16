@@ -6,7 +6,10 @@ What I've been working on:
 
 
 What I've been reading:  
-I've been on a UX kick recently (in the Alan Kay/Douglas Englebart/Brett Victor school of things):
+- [An APL Machine](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf)
+- [A Basis for a Mathematical Theory of Computation, McCarthy '63](https://ropas.snu.ac.kr/~kwang/4190.310/mccarthy63basis.pdf)
 - [Alan Kay at OOPSLA '97](https://www.youtube.com/watch?v=oKg1hTOQXoY)
-- [Brett: Magic Ink](https://worrydream.com/MagicInk)
-- [Man Coputer Symbiosis, Licklider '60](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+
+I've been on a UX kick recently (in the Alan Kay/Douglas Englebart/Brett Victor school of things):
+- [Peter Brett: Magic Ink](https://worrydream.com/MagicInk)
+- [Man Computer Symbiosis, Licklider '60](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
