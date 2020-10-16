@@ -9,6 +9,7 @@ What I've been reading:
 - [An APL Machine](https://www.slac.stanford.edu/pubs/slacreports/reports07/slac-r-114.pdf)
 - [A Basis for a Mathematical Theory of Computation, McCarthy '63](https://ropas.snu.ac.kr/~kwang/4190.310/mccarthy63basis.pdf)
 - [Alan Kay at OOPSLA '97](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+- [Unix Haters Handbook](https://web.mit.edu/%7Esimsong/www/ugh.pdf) (I don't hate Unix, but I hate that its the best we could do in the 21st century)
 
 I've been on a UX kick recently (in the Alan Kay/Douglas Englebart/Brett Victor school of things):
 - [Peter Brett: Magic Ink](https://worrydream.com/MagicInk)
